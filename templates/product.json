@@ -60,6 +60,13 @@
             "page": "",
             "display_mode": "show_all"
           }
+        },
+        "f816b2ce-7778-45c6-8985-be299491906b": {
+          "type": "button",
+          "settings": {
+            "text": "data sheet",
+            "link": "http:\/\/www.ibm.com"
+          }
         }
       },
       "block_order": [
@@ -69,7 +76,8 @@
         "description",
         "476c9231-c15e-4023-b6a3-309a6e037b52",
         "64fb8014-8366-4a0a-931c-45fdec9fefc1",
-        "2a778664-5f05-456f-93a3-29194d9ac8cb"
+        "2a778664-5f05-456f-93a3-29194d9ac8cb",
+        "f816b2ce-7778-45c6-8985-be299491906b"
       ],
       "settings": {
         "image_size": "small",
