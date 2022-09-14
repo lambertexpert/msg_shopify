@@ -33,41 +33,32 @@
         "description": {
           "type": "description",
           "settings": {
-            "display_mode": "show_all"
-          }
-        },
-        "6396c3f8-4388-4bed-9eaa-4662ddb40af6": {
-          "type": "shipping_estimator",
-          "settings": {
-            "shipping_estimator_default_country": "United States",
-            "show_refunds_policy": true
-          }
-        },
-        "aeb07dc5-c124-4da5-942c-2f167e61cb03": {
-          "type": "trust",
-          "settings": {
-            "trust_title": "Payment & Security",
-            "show_payment_icons": true,
-            "custom_security_badge_width": 200
+            "display_mode": "view_more"
           }
         },
         "476c9231-c15e-4023-b6a3-309a6e037b52": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "text": "data sheet",
             "link": ""
           }
         },
-        "6da063f6-57c8-494f-baa1-c41bb03dfc83": {
-          "type": "store_pickup",
-          "settings": {
-          }
-        },
         "64fb8014-8366-4a0a-931c-45fdec9fefc1": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "text": "hhhh",
             "link": "shopify:\/\/products\/product-1"
+          }
+        },
+        "2a778664-5f05-456f-93a3-29194d9ac8cb": {
+          "type": "content",
+          "settings": {
+            "title": "cool button",
+            "content": "<p><a href=\"https:\/\/www.google.com\" target=\"_blank\" title=\"https:\/\/www.google.com\">cool<\/a><\/p>",
+            "page": "",
+            "display_mode": "show_all"
           }
         }
       },
@@ -76,11 +67,9 @@
         "variant_selector",
         "buy_buttons",
         "description",
-        "6396c3f8-4388-4bed-9eaa-4662ddb40af6",
-        "aeb07dc5-c124-4da5-942c-2f167e61cb03",
         "476c9231-c15e-4023-b6a3-309a6e037b52",
-        "6da063f6-57c8-494f-baa1-c41bb03dfc83",
-        "64fb8014-8366-4a0a-931c-45fdec9fefc1"
+        "64fb8014-8366-4a0a-931c-45fdec9fefc1",
+        "2a778664-5f05-456f-93a3-29194d9ac8cb"
       ],
       "settings": {
         "image_size": "small",
@@ -92,6 +81,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "show_quick_buy": false
@@ -99,6 +89,7 @@
     },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
+      "disabled": true,
       "settings": {
         "title": "Recently viewed",
         "show_quick_buy": false
