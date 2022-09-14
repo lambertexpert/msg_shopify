@@ -1,0 +1,358 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "Brand info & latest events, marketing news display here",
+            "content": "xxxx xxx xxxxxx x x. x x x x x x x x x xxxxxxxx xxxxxx xxxx xxxxx xxxx xxx xxx xxx xxx xx xx xxx xxx xxxxxxx xx xxx x x x x xxxxx",
+            "content_position": "middle_left",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "Slide title",
+            "content": "Tell your story",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "settings": {
+        "edge_to_edge": true,
+        "section_size": "preserve_ratio",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "solar-inverters",
+            "link": ""
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "ev-chargers",
+            "link": ""
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "mountings",
+            "link": ""
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "solar-modules",
+            "link": ""
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        },
+        "collection-6": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        },
+        "f32f4d5f-4665-4a0d-b306-d9337cbd1057": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3",
+        "collection-4",
+        "collection-5",
+        "collection-6",
+        "f32f4d5f-4665-4a0d-b306-d9337cbd1057"
+      ],
+      "settings": {
+        "title": "We sell",
+        "link_title": "Browse all product",
+        "link": "shopify:\/\/collections",
+        "round_images": true,
+        "show_collection_title": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "title": "",
+        "products_count": 12,
+        "layout": "vertical",
+        "stack_products": false,
+        "show_quick_buy": false,
+        "link_title": "view more",
+        "link_url": "shopify:\/\/pages\/contact"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "product-meta": {
+          "type": "product_meta",
+          "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_reviews_badge": false,
+            "show_share_buttons": true
+          }
+        },
+        "featured-description": {
+          "type": "featured_description",
+          "settings": {
+          }
+        },
+        "variant-selector": {
+          "type": "variant_selector",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "show_quantity_selector": true,
+            "show_taxes_included": false,
+            "show_inventory_quantity": false,
+            "low_inventory_threshold": 0
+          }
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "product-meta",
+        "featured-description",
+        "variant-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "product": "",
+        "title": "Featured product",
+        "link_title": "View details",
+        "link_url": "",
+        "image_size": "small",
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "zoom_effect": "outside",
+        "carousel_effect": "fade"
+      }
+    },
+    "16629544725bdf4255": {
+      "type": "logo-list",
+      "blocks": {
+        "16629544728eae63f3-0": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16629544728eae63f3-1": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16629544728eae63f3-2": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16629544728eae63f3-3": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16629544728eae63f3-4": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16629544728eae63f3-5": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16629544728eae63f3-0",
+        "16629544728eae63f3-1",
+        "16629544728eae63f3-2",
+        "16629544728eae63f3-3",
+        "16629544728eae63f3-4",
+        "16629544728eae63f3-5"
+      ],
+      "settings": {
+        "title": "Our partners",
+        "link_title": "",
+        "link": ""
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "blog": "",
+        "blog_posts_count": 3,
+        "title": "BSG PROJECTS",
+        "link_title": "View all",
+        "show_category": false,
+        "show_author": false,
+        "show_date": true,
+        "show_excerpt": false,
+        "stack_mobile": false
+      }
+    },
+    "16629545183062e0ae": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "title": "our projects",
+        "html": "<p>Write or copy\/paste HTML code<\/p>"
+      }
+    },
+    "16629550035f1f1866": {
+      "type": "image-with-text",
+      "settings": {
+        "image_position": "left",
+        "image_width": 50,
+        "title": "Sustainable solar solutions for your business",
+        "content": "<p>Use this text to share information about your brand with your customers.<br\/>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "button_text": "Get in touch",
+        "button_link": "shopify:\/\/collections\/all"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+        "background": "#e1e3e4",
+        "text": "#000000"
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "icon-1": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "bi-delivery",
+            "title": "Free delivery worldwide",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "bi-returns",
+            "title": "Satisfied or refunded",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "icon-3": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-phone",
+            "title": "office hours",
+            "content": "<p>Short content about your store, Short content about your store Short content about your store Short content about your store<\/p>"
+          }
+        },
+        "icon-4": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-time",
+            "title": "Wholesale hours",
+            "content": "<p>Short content about your store sample text Short content about your store sample text<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "icon-1",
+        "icon-2",
+        "icon-3",
+        "icon-4"
+      ],
+      "settings": {
+        "stack_mobile": false
+      }
+    },
+    "16629553401de2a50e": {
+      "type": "image-with-text",
+      "settings": {
+        "image_position": "right",
+        "image_width": 50,
+        "title": "Acknowledge of countries",
+        "content": "<p>Use this text to share information about your brand with your customers.<br\/>Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "button_text": "",
+        "button_link": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "collection-list",
+    "featured-collection",
+    "featured-product",
+    "16629544725bdf4255",
+    "blog-posts",
+    "16629545183062e0ae",
+    "16629550035f1f1866",
+    "newsletter",
+    "text-with-icons",
+    "16629553401de2a50e"
+  ]
+}
