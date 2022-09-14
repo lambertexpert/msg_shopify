@@ -57,6 +57,18 @@
             "text": "data sheet",
             "link": ""
           }
+        },
+        "6da063f6-57c8-494f-baa1-c41bb03dfc83": {
+          "type": "store_pickup",
+          "settings": {
+          }
+        },
+        "64fb8014-8366-4a0a-931c-45fdec9fefc1": {
+          "type": "button",
+          "settings": {
+            "text": "hhhh",
+            "link": "shopify:\/\/products\/product-1"
+          }
         }
       },
       "block_order": [
@@ -66,7 +78,9 @@
         "description",
         "6396c3f8-4388-4bed-9eaa-4662ddb40af6",
         "aeb07dc5-c124-4da5-942c-2f167e61cb03",
-        "476c9231-c15e-4023-b6a3-309a6e037b52"
+        "476c9231-c15e-4023-b6a3-309a6e037b52",
+        "6da063f6-57c8-494f-baa1-c41bb03dfc83",
+        "64fb8014-8366-4a0a-931c-45fdec9fefc1"
       ],
       "settings": {
         "image_size": "small",

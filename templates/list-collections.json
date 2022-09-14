@@ -2,7 +2,23 @@
   "sections": {
     "main": {
       "type": "main-collections-list",
+      "blocks": {
+        "4157da03-5c14-4ad7-a580-338a580aa4a2": {
+          "type": "collection",
+          "settings": {
+            "collection": "ev-chargers"
+          }
+        }
+      },
+      "block_order": [
+        "4157da03-5c14-4ad7-a580-338a580aa4a2"
+      ],
       "settings": {
+        "collections_to_show": "all",
+        "collection_linklist": "",
+        "show_collection_title": true,
+        "show_collection_overlay": true,
+        "collection_overlay_opacity": 20
       }
     }
   },
