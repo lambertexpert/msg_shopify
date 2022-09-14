@@ -6,21 +6,56 @@
         "product_meta": {
           "type": "product_meta",
           "settings": {
+            "show_vendor": true,
+            "show_sku": false,
+            "show_reviews_badge": false,
+            "show_share_buttons": true
           }
         },
         "variant_selector": {
           "type": "variant_selector",
           "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "show_quantity_selector": true,
+            "show_taxes_included": false,
+            "show_inventory_quantity": false,
+            "low_inventory_threshold": 0
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
+            "show_payment_button": true
           }
         },
         "description": {
           "type": "description",
           "settings": {
+            "display_mode": "show_all"
+          }
+        },
+        "6396c3f8-4388-4bed-9eaa-4662ddb40af6": {
+          "type": "shipping_estimator",
+          "settings": {
+            "shipping_estimator_default_country": "United States",
+            "show_refunds_policy": true
+          }
+        },
+        "aeb07dc5-c124-4da5-942c-2f167e61cb03": {
+          "type": "trust",
+          "settings": {
+            "trust_title": "Payment & Security",
+            "show_payment_icons": true,
+            "custom_security_badge_width": 200
+          }
+        },
+        "476c9231-c15e-4023-b6a3-309a6e037b52": {
+          "type": "button",
+          "settings": {
+            "text": "data sheet",
+            "link": ""
           }
         }
       },
@@ -28,19 +63,31 @@
         "product_meta",
         "variant_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "6396c3f8-4388-4bed-9eaa-4662ddb40af6",
+        "aeb07dc5-c124-4da5-942c-2f167e61cb03",
+        "476c9231-c15e-4023-b6a3-309a6e037b52"
       ],
       "settings": {
+        "image_size": "small",
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "zoom_effect": "outside",
+        "carousel_effect": "fade"
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
+        "heading": "You may also like",
+        "show_quick_buy": false
       }
     },
     "recently-viewed-products": {
       "type": "recently-viewed-products",
       "settings": {
+        "title": "Recently viewed",
+        "show_quick_buy": false
       }
     }
   },
